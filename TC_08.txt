@@ -1,0 +1,18 @@
+TC_08 USB Config:
+USB Vendor ID : 0x0CE9
+USB Product ID : 0x1000
+
+TC-08 EEPROM Map:
+Address 0x00 = Cypress FX1 Command load Firmware over USB
+Address 0x01 = Vendor ID (VID) LOW
+Address 0x02 = Vendor ID (VID) HIGH
+Address 0x03 = Product ID (PID) LOW
+Address 0x04 = Product ID (PID) HIGH
+Address 0x05 = Device ID (DID) LOW 
+Address 0x06 = Device ID (DID) HIGH
+Address 0x07 = Cypress FX1 configuration byte 
+Address 0x08/0x09 =TC-08 HW Version
+Address 0x0B = TC-08 HW Variant
+Address 0x13-0x1B = TC-08 Serial Number as ASCII string: AXxxx/xxx with X either 0 or O, x numbers
+Address 0x1D-0x23 = TC-08 Manuf. Date as ASCII string: DDMonYY with DD >> Day as 2 digit number, Mon >> Month as 3 letter code, YY Year as 2 digit number
+Rest Unknown

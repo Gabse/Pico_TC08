@@ -1,0 +1,69 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CS5532
+D 24-bit DS ADCs with Ultra-low-noise PGIA
+F https://statics.cirrus.com/pubs/proDatasheet/CS5532-34-BS_F5.pdf
+$ENDCMP
+#
+$CMP CY7C64713-56PVX
+D CYPRESS FX1 USB Microcontroller, 48MHz 8051, 16KB RAM, USB 1.1, I2C, SSOP-56
+K FX1LP 8-bit USB MCU
+F https://www.cypress.com/file/125331/download
+$ENDCMP
+#
+$CMP DG409
+D Dual 4 Channel Analog Multiplexer
+F https://www.vishay.com/docs/70062/dg408.pdf
+$ENDCMP
+#
+$CMP LM4040AIM3-2.5
+D 2.5V Precision Micropower Shunt Voltage Reference, SOT-23
+K diode device voltage reference shunt
+F http://www.ti.com/lit/ds/symlink/lm4040-n.pdf
+$ENDCMP
+#
+$CMP LT1167xxN8
+D Single Resistor Gain Programmable, Precision Instrumentation Amplifier, DIP-8
+K single instumentation amplifier
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf
+$ENDCMP
+#
+$CMP LT1167xxS8
+D Single Resistor Gain Programmable, Precision Instrumentation Amplifier, SO-8
+K Instrumentation amplifier
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1167fc.pdf
+$ENDCMP
+#
+$CMP MAX1673
+D Regulated, 125mA-Output,Charge-Pump DC-DC Inverter
+K Charge-Pump, DC-DC Inverter
+F https://datasheets.maximintegrated.com/en/ds/MAX1673.pdf
+$ENDCMP
+#
+$CMP MAX337
+D Dual 8 Channel Analog Multiplexer
+F https://datasheets.maximintegrated.com/en/ds/MAX336-MAX337.pdf
+$ENDCMP
+#
+$CMP MAX337CAI
+D Dual 8 Channel Analog Multiplexer
+F https://datasheets.maximintegrated.com/en/ds/MAX336-MAX337.pdf
+$ENDCMP
+#
+$CMP MAX6424
+D Low-Power, SC70/SOT μP Reset Circuits with Capacitor-Adjustable Reset Timeout Delay
+F https://datasheets.maximintegrated.com/en/ds/MAX6340-MAX6426.pdf
+$ENDCMP
+#
+$CMP MAX864
+D Dual-Output Charge Pump with Shutdown
+F https://datasheets.maximintegrated.com/en/ds/MAX864.pdf
+$ENDCMP
+#
+$CMP TPS78833
+D 150mA low dropout linear regulator, inrush limit pin, 3.3V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F https://www.ti.com/lit/ds/slvs382a/slvs382a.pdf
+$ENDCMP
+#
+#End Doc Library
